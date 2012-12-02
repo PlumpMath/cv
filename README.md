@@ -1,4 +1,4 @@
 cv
 ==
 
-John's CV
+John's Curriculum Vitae
