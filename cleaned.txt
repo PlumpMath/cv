@@ -1,0 +1,1787 @@
+Found 4 duplicates, skipped the first 4.
+REFEREED
+\item ``An absence of neutrinos associated with cosmic-ray
+        acceleration in   $\gamma$-ray bursts'' (with
+        R.~Abbasi {\it et al.}  [IceCube   Collaboration]).
+        \\{}arXiv:1204.4219 [astro-ph.HE]
+        \\{}10.1038/nature11068 \\{}Nature {\bf 484}, 351
+        (2012) %(Apr 2012)  (2012).
+
+\item ``A Search for UHE Tau Neutrinos with IceCube'' (with
+        R.~Abbasi {\it et   al.}  [IceCube Collaboration]).
+        \\{}arXiv:1202.4564 [astro-ph.HE]
+        \\{}10.1103/PhysRevD.86.022005 \\{}Phys.\ Rev.\ D
+        {\bf 86}, 022005   (2012) %(Feb 2012)  (2012).
+
+\item ``Multi-year search for dark matter annihilations in
+        the Sun with the   AMANDA-II and IceCube detectors''
+        (with R.~Abbasi {\it et al.}   [IceCube
+        Collaboration]).  \\{}arXiv:1112.1840 [astro-ph.HE]
+        \\{}10.1103/PhysRevD.85.042002 \\{}Phys.\ Rev.\ D
+        {\bf 85}, 042002   (2012) %(Dec 2011)  (2012).
+
+\item ``A Search for a Diffuse Flux of Astrophysical Muon
+        Neutrinos with the   IceCube 40-String Detector''
+        (with R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]).  \\{}arXiv:1104.5187 [astro-ph.HE]
+        \\{}10.1103/PhysRevD.84.082001 \\{}Phys.\ Rev.\ D
+        {\bf 84}, 082001   (2011) %(Apr 2011)  (2011).
+
+\item ``Constraints on the Extremely-high Energy Cosmic
+        Neutrino Flux with   the IceCube 2008-2009 Data''
+        (with R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]).  \\{}arXiv:1103.4250 [astro-ph.CO]
+        \\{}10.1103/PhysRevD.84.079902,
+        10.1103/PhysRevD.83.092003   \\{}Phys.\ Rev.\ D {\bf
+        83}, 092003 (2011), [Erratum-ibid.\ D {\bf
+        84}, 079902 (2011)] %(Mar 2011)  (2011).
+
+\item ``Search for Dark Matter from the Galactic Halo with
+        the IceCube   Neutrino Observatory'' (with R.~Abbasi
+        {\it et al.}  [IceCube     Collaboration]).
+        \\{}arXiv:1101.3349 [astro-ph.HE]
+        \\{}10.1103/PhysRevD.84.022004 \\{}Phys.\ Rev.\ D
+        {\bf 84}, 022004   (2011) %(Jan 2011)  (2011).
+
+\item ``First search for atmospheric and extraterrestrial
+        neutrino-induced   cascades with the IceCube
+        detector'' (with R.~Abbasi {\it et al.}   [IceCube
+        Collaboration]).  \\{}arXiv:1101.1692 [astro-ph.HE]
+        \\{}10.1103/PhysRevD.84.072001 \\{}Phys.\ Rev.\ D
+        {\bf 84}, 072001   (2011) %(Jan 2011)  (2011).
+
+\item ``Limits on Neutrino Emission from Gamma-Ray Bursts
+        with the 40 String   IceCube Detector'' (with
+        R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]).  \\{}arXiv:1101.1448 [astro-ph.HE]
+        \\{}10.1103/PhysRevLett.106.141101 \\{}Phys.\ Rev.\
+        Lett.\ {\bf     106}, 141101 (2011) %(Jan 2011)
+        (2011).
+
+\item ``Measurement of the atmospheric neutrino energy
+        spectrum from 100 GeV   to 400 TeV with IceCube''
+        (with R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]).  \\{}arXiv:1010.3980 [astro-ph.HE]
+        \\{}10.1103/PhysRevD.83.012001 \\{}Phys.\ Rev.\ D
+        {\bf 83}, 012001   (2011) %(Oct 2010)  (2011).
+
+\item ``Search for a Lorentz-violating sidereal signal with
+        atmospheric   neutrinos in IceCube'' (with R.~Abbasi
+        {\it et al.}  [IceCube     Collaboration]).
+        \\{}arXiv:1010.4096 [astro-ph.HE]
+        \\{}10.1103/PhysRevD.82.112003 \\{}Phys.\ Rev.\ D
+        {\bf 82}, 112003   (2010) %(Oct 2010)  (2010).
+
+\item ``The first search for extremely-high energy
+        cosmogenic neutrinos with   the IceCube Neutrino
+        Observatory'' (with R.~Abbasi {\it et al.}
+        [IceCube Collaboration]).  \\{}arXiv:1009.1442
+        [astro-ph.CO]   \\{}10.1103/PhysRevD.82.072003
+        \\{}Phys.\ Rev.\ D {\bf 82}, 072003   (2010) %(Sep
+        2010)  (2010).
+
+\item ``Calibration and Characterization of the IceCube
+        Photomultiplier   Tube'' (with R.~Abbasi {\it et
+        al.}  [IceCube Collaboration]). arXiv:1002.2442
+        [astro-ph.IM] \\{}10.1016/j.nima.2010.03.102
+        \\{}Nucl.\ Instrum.\ Meth.\ A {\bf 618}, 139 (2010)
+        %(Feb 2010)  (2010).
+
+\item ``Limits on a muon flux from Kaluza-Klein dark matter
+        annihilations in   the Sun from the IceCube
+        22-string detector'' (with R.~Abbasi {\it et
+        al.}  [IceCube Collaboration]).  \\{}arXiv:0910.4480
+        [astro-ph.CO]   \\{}10.1103/PhysRevD.81.057101
+        \\{}Phys.\ Rev.\ D {\bf 81}, 057101   (2010) %(Oct
+        2009)  (2010).
+
+\item ``"Determination of the atmospheric neutrino flux and
+        searches for   new physics with AMANDA- II", R.
+        abbassi {\it et al.}, Phys. Rev. {\bf     D79},
+        102005'' (2009).
+
+\item ``Search for Point Sources of High Energy Neutrinos
+        with Final   Data from AMANDA-II,” R. Abassi {\it
+        et al.}, Phys. Rev. {\bf D79}, 062001  '' (2009).
+
+\item ``Extending the search for neutrino point sources with
+        IceCube above   the horizon'' (with R.~Abbasi {\it
+        et al.}  [IceCube Collaboration]). arXiv:0911.2338
+        [astro-ph.HE] \\{}10.1103/PhysRevLett.103.221102
+        \\{}Phys.\ Rev.\ Lett.\ {\bf 103}, 221102 (2009)
+        %(Nov 2009)  (2009).
+
+\item ``Limits on a Muon Flux from Neutralino Annihilations
+        in the Sun with   the IceCube 22-string detector''
+        (with R.~Abbasi {\it et al.}   [ICECUBE
+        Collaboration]).  \\{}arXiv:0902.2460 [astro-ph.CO]
+        \\{}10.1103/PhysRevLett.102.201302 \\{}Phys.\ Rev.\
+        Lett.\ {\bf     102}, 201302 (2009) %(Feb 2009)
+        (2009).
+
+\item ``Determination of the Atmospheric Neutrino Flux and
+        Searches for New   Physics with AMANDA-II'' (with
+        R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]).  \\{}arXiv:0902.0675 [astro-ph.HE]
+        \\{}10.1103/PhysRevD.79.102005 \\{}Phys.\ Rev.\ D
+        {\bf 79}, 102005   (2009) %(Feb 2009)  (2009).
+
+\item ``Search for Point Sources of High Energy Neutrinos
+        with Final Data   from AMANDA-II'' (with R.~Abbasi
+        {\it et al.}  [IceCube     Collaboration]).
+        \\{}arXiv:0809.1646 [astro-ph]
+        \\{}10.1103/PhysRevD.79.062001 \\{}Phys.\ Rev.\ D
+        {\bf 79}, 062001   (2009) %(Sep 2008)  (2009).
+
+\item ``Multi-year search for a diffuse flux of muon
+        neutrinos with   AMANDA-II'' (with A.~Achterberg
+        {\it et al.}  [IceCube Collaboration]).
+        arXiv:0705.1315 [astro-ph]
+        \\{}10.1103/PhysRevD.76.042008,
+        10.1103/PhysRevD.77.089904 \\{}Phys.\ Rev.\ D {\bf
+        76}, 042008   (2007), [Erratum-ibid.\ D {\bf 77},
+        089904 (2008)] %(May 2007)  (2008).
+
+\item ``Five years of searches for point sources of
+        astrophysical neutrinos   with the AMANDA-II
+        neutrino telescope'' (with A.~Achterberg {\it et
+        al.}  [IceCube Collaboration]).
+        \\{}astro-ph/0611063
+        \\{}10.1103/PhysRevD.75.102001 \\{}Phys.\ Rev.\ D
+        {\bf 75}, 102001   (2007) %(Nov 2006)  (2007).
+
+\item ``Limits on the High-energy Gamma and Neutrino Fluxes
+        from the SGR   1806-20 giant flare of December 27th,
+        2004 with the AMANDA-II   detector'' (with
+        A.~Achterberg {\it et al.}  [IceCube
+        Collaboration]). astro-ph/0607233
+        \\{}10.1103/PhysRevLett.97.221101   \\{}Phys.\ Rev.\
+        Lett.\ {\bf 97}, 221101 (2006) %(Jul 2006)  (2006).
+
+\item ``Search for Extraterrestrial Point Sources of
+        Neutrinos with   AMANDA-II'' (with the AMANDA
+        Collaboration, J. Ahrens {\it et al.}).   Phys. Rev.
+        Lett. {\bf 92} 071102 (2004).
+
+\item ``Limits on Diffuse Fluxes of High-energy
+        Extraterrestrial   Neutrinos with the AMANDA-B10
+        Detector'' (J. Ahrens {\it et al.}).   Phys. Rev.
+        Lett. {\bf 90} 251101 (2003).
+
+\item ``Limits To The Muon Flux From Wimp Annihilation In
+        The Center Of   The Earth With The AMANDA Detector''
+        (by the AMANDA Collaboration,   J. Ahrens {\it et
+        al.}) (Feb 2002). 13pp. Phys. Rev. {\bf D66} 032006
+        (2002). e-Print Archive: astro-ph/0202370.  (2002).
+
+\item ``Observation of high-energy atmospheric neutrinos
+        with the Antarctic Muon and Neutrino Detector
+        Array'' (with J.~Ahrens {\it et al.}  [AMANDA
+        Collaboration]). astro-ph/0205109
+        \\{}10.1103/PhysRevD.66.012005 \\{}Phys.\ Rev.\ D
+        {\bf 66}, 012005 (2002) %(May 2002)  (2002).
+
+\item ``Observation of High-Energy Neutrinos Using Cerenkov
+        Detectors   Embedded Deep in Antarctic Ice'' (with
+        the AMANDA Collaboration,   E. Andres, {\it et
+        al.}), Nature {\bf 410} 441-443 (2001).
+
+\item ``Ultratransparent Ice as a Supernova Detector'' (with
+        F.~Halzen   and E.~Zas), Phys.~Rev. {\bf D53}, n12,
+        p.~7359 (1996).
+
+\item ``Optical Properties of the South Pole Ice at Depths
+        Between 0.8   and 1 Kilometer'' (with P.~Askebjer
+        \etal), Science, Vol.~267,   p.~1147 (1995)  (1995).
+
+\item ``Possibility that High-Energy Neutrino Telescopes
+        Could Detect   Supernovae'' (with F.~Halzen and
+        E.~Zas), Phys. Rev. {\bf D49}, n4,   p.~1758 (1994).
+
+\item ``Measurement of the Absolute Luminosity with the
+        ALEPH   Detector'' (with the ALEPH Collaboration,
+        D.~Decamp et.~al.),   Z.~Phys.~{\bf C53} 375-390
+        (1992).
+
+\item ``An Investigation Into Intermittency'' (with the
+        ALEPH   Collaboration, D.~Decamp et.~al.),
+        Z.~Phys.~{\bf C53} 21-32 (1992).
+
+\item ``Improved measurements of electroweak parameters from
+        $Z$ decays into fermion pairs'' (with D.~Decamp {\it
+        et al.}  [ALEPH Collaboration]). 10.1007/BF01483868
+        \\{}Z.\ Phys.\ C {\bf 53}, 1 (1992).
+
+\item ``Measurement of the Charged Particle Multiplicity
+        Distribution   in Hadronic $Z$ Decays'' (with the
+        ALEPH Collaboration, D.~Decamp   et.~al.),
+        Phys.~Lett.~{\bf B273} 181-192 (1991).
+
+\item ``Production and decay of charmed mesons at the Z
+        resonance'' (with D.~Decamp {\it et al.}  [ALEPH
+        Collaboration]). 10.1016/0370-2693(91)90769-M
+        \\{}Phys.\ Lett.\ B {\bf 266}, 218 (1991).
+
+\item ``Search for the neutral Higgs bosons of the MSSM and
+        other two doublet models'' (with D.~Decamp {\it et
+        al.}  [ALEPH Collaboration]).
+        10.1016/0370-2693(91)90083-3 \\{}Phys.\ Lett.\ B
+        {\bf 265}, 475 (1991).
+
+\item ``Measurement of the Polarization of $\tau$ Leptons
+        Produced in   $Z$ Decays'' (with the ALEPH
+        Collaboration, D.~Decamp et.~al.),
+        Phys.~Lett.~{\bf B265} 430-444 (1991).
+
+\item ``Measurement of Isolated Photon Production in
+        Hadronic $Z$   Decays'' (with the ALEPH
+        Collaboration, D.~Decamp et.~al.),
+        Phys.~Lett.~{\bf B264} 476-486 (1991).
+
+\item ``Using Neural Networks with Jet Shapes to Identify
+        $b$ jets in   $e^+ e^-$ Interactions'' (with
+        L.~Bellantoni, J.~Conway, Y.~Pan and   S.~L.~Wu),
+        Nucl.~Instrum.~Meth. {\bf A310} 618-622 (1991).
+
+\item ``Measurement of the Forward-Backward Asymmetry in $Z
+        \rightarrow b \bar b$ and $Z \rightarrow c \bar c$''
+        (with the ALEPH   Collaboration, D.~Decamp et.~al.),
+        Phys.~Lett.~{\bf B263} 325-336   (1991).
+
+\item ``Charged Particle Pair Production Associated with a
+        Lepton Pair   in $Z$ Decays: Indication of an Excess
+        in the Tau Channel'' (with   the ALEPH
+        Collaboration, D.~Decamp et.~al.), Phys.~Lett.~{\bf
+        B263}   112-122 (1991).
+
+\item ``Search for a New Weakly Interacting Particle'' (with
+        the ALEPH   Collaboration, D.~Decamp et.~al.),
+        Phys.~Lett.~{\bf B262} 139-147   (1991).
+
+\item ``Measurement of Charge Asymmetry in Hadronic $Z$
+        Decays'' (with   the ALEPH Collaboration, D.~Decamp
+        et.~al.), Phys.~Lett.~{\bf B259}   377-388 (1991).
+
+\item ``Measurement of alpha-s from the structure of
+        particle clusters produced in hadronic Z decays''
+        (with D.~Decamp {\it et al.}  [ALEPH
+        Collaboration]). 10.1016/0370-2693(91)91926-M
+        \\{}Phys.\ Lett.\ B {\bf 257}, 479 (1991).
+
+\item ``Measurement of the $B$ Hadron Lifetime'' (with the
+        ALEPH   Collaboration, D.~Decamp et.~al.),
+        Phys.~Lett.~{\bf B257} 492-504   (1991).
+
+\item ``Measurement of the Strong Coupling Constant
+        $\alpha_S$ from   Global Event Shape Variables of
+        Hadronic $Z$ Decays'' (with the   ALEPH
+        Collaboration, D.~Decamp et.~al.), Phys.~Lett. {\bf
+        B255}   623-633 (1991).
+
+\item ``Search for excited neutrinos in Z decay'' (with
+        D.~Decamp {\it et al.}  [ALEPH Collaboration]).
+        10.1016/0370-2693(90)91174-A \\{}Phys.\ Lett.\ B
+        {\bf 250}, 172 (1990).
+
+\item ``Measurement of electroweak parameters from $Z$
+        decays into Fermion pairs'' (with D.~Decamp {\it et
+        al.}  [ALEPH Collaboration]). 10.1007/BF01572019
+        \\{}Z.\ Phys.\ C {\bf 48}, 365 (1990).
+
+OTHERS
+\item ``Search for Galactic PeV Gamma Rays with the IceCube
+        Neutrino Observatory,'' (with M. G. Aartsen {\it et
+        al.}  [IceCube Collaboration]), Oct. 2012.
+        arXiv:1210.7992 [astro-ph.HE]. (2012).
+
+\item ``Cosmic Ray Composition and Energy Spectrum from 1-30
+        PeV Using the 40-String Configuration of IceTop and
+        IceCube,'' (with R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]), Jul. 2012.   arXiv:1207.3455
+        [astro-ph.HE]. (2012).
+
+\item ``Observation of Cosmic Ray Anisotropy with the IceTop
+        Air Shower   Array'' (with M.~G.~Aartsen, R.~Abbasi,
+        Y.~Abdou, M.~Ackermann,   J.~Adams, J.~A.~Aguilar,
+        M.~Ahlers and D.~Altmann {\it et al.}).
+        arXiv:1210.5278 [astro-ph.HE]  %(Oct 2012)  (2012).
+
+\item ``Search for Neutrinos from Annihilating Dark Matter
+        in the Direction   of the Galactic Center with the
+        40-String IceCube Neutrino   Observatory'' (with
+        R.~Abbasi {\it et al.}  [IceCube Collaboration]).
+        arXiv:1210.3557 [hep-ex]    %(Oct 2012)  (2012).
+
+\item ``Searches for high-energy neutrino emission in the
+        Galaxy with the combined IceCube-AMANDA detector,''
+        (with R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]), Oct. 2012.   arXiv:1210.3273
+        [astro-ph.HE]. (2012).
+
+\item ``Search for Relativistic Magnetic Monopoles with
+        IceCube,'' (with R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]), Aug. 2012.   arXiv:1208.4861
+        [astro-ph.HE]. (2012).
+
+\item ``An improved method for measuring muon energy using
+        the truncated mean of dE/dx,'' (with R.~Abbasi {\it
+        et al.}  [IceCube Collaboration]), Aug. 2012.
+        arXiv:1208.3430 [physics.data-an]. (2012).
+
+\item ``Lateral Distribution of Muons in IceCube Cosmic Ray
+        Events'' (with R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]). arXiv:1208.2979 [astro-ph.HE] %(Aug
+        2012)  (2012).
+
+\item ``IceTop: The surface component of IceCube'' (with
+        R.~Abbasi {\it et   al.}  [IceCube Collaboration]).
+        \\{}arXiv:1207.6326 [astro-ph.IM] %(Jul 2012)
+        (2012).
+
+\item ``Use of event-level neutrino telescope data in global
+        fits for   theories of new physics'' (with P.~Scott
+        {\it et al.}  [IceCube     Collaboration]).
+        \\{}arXiv:1207.0810 [hep-ph] %(Jul 2012)  (2012).
+
+\item ``All-particle cosmic ray energy spectrum measured
+        with 26 IceTop   stations'' (with R.~Abbasi {\it et
+        al.}  [IceCube Collaboration]). arXiv:1202.3039
+        [astro-ph.HE] %(Feb 2012)  (2012).
+
+\item ``Searching for soft relativistic jets in
+        Core-collapse Supernovae   with the IceCube Optical
+        Follow-up Program'' (with R.~Abbasi {\it et     al.}
+        [IceCube and ROTSE Collaborations].
+        \\{}arXiv:1111.7030   [astro-ph.HE] \\{}Astron.\
+        Astrophys.\ {\bf 539}, A60 (2012) %(Nov   2011)
+        (2012).
+
+\item ``The Design and Performance of IceCube DeepCore''
+        (with R.~Abbasi {\it   {\it et al.}}  [IceCube
+        Collaboration]).  \\{}arXiv:1109.6096 [astro-ph.IM]
+        \\{}10.1016/j.astropartphys.2012.01.004
+        \\{}Astropart.\ Phys.\ {\bf     35}, 615 (2012)
+        %(Sep 2011)  (2012).
+
+\item ``Observation of an Anisotropy in the Galactic Cosmic
+        Ray arrival   direction at 400 TeV with IceCube''
+        (with R.~Abbasi {\it et al.}   [IceCube
+        Collaboration]).  \\{}arXiv:1109.1017 [hep-ex]
+        \\{}10.1088/0004-637X/746/1/33 \\{}Astrophys.\ J.\
+        {\bf 746}, 33   (2012) %(Sep 2011)  (2012).
+
+\item ``Searches for periodic neutrino emission from binary
+        systems with 22   and 40 strings of IceCube'' (with
+        R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]).  \\{}arXiv:1108.3023 [astro-ph.HE]
+        \\{}10.1088/0004-637X/748/2/118 \\{}Astrophys.\ J.\
+        {\bf 748}, 118   (2012) %(Aug 2011)  (2012).
+
+\item ``Neutrino analysis of the September 2010 Crab Nebula
+        flare and   time-integrated constraints on neutrino
+        emission from the Crab using   IceCube'' (with
+        R.~Abbasi {\it et al.}  [IceCube Collaboration]).
+        arXiv:1106.3484 [astro-ph.HE]
+        \\{}10.1088/0004-637X/745/1/45   \\{}Astrophys.\ J.\
+        {\bf 745}, 45 (2012) %(Jun 2011)  (2012).
+
+\item ``Time-Dependent Searches for Point Sources of
+        Neutrinos with the   40-String and 22-String
+        Configurations of IceCube'' (with R.~Abbasi   {\it
+        et al.}  [IceCube Collaboration]).
+        \\{}arXiv:1104.0075   [astro-ph.HE]
+        \\{}10.1088/0004-637X/744/1/1 \\{}Astrophys.\ J.\
+        {\bf     744}, 1 (2012) %(Apr 2011)  (2012).
+
+\item ``Background studies for acoustic neutrino detection
+        at the South   Pole'' (with R.~Abbasi {\it et al.}
+        [IceCube Collaboration]). arXiv:1103.1216
+        [astro-ph.IM]
+        \\{}10.1016/j.astropartphys.2011.09.004
+        \\{}Astropart.\ Phys.\ {\bf     35}, 312 (2012)
+        %(Mar 2011)  (2012).
+
+\item ``IceCube - Astrophysics and Astroparticle Physics at
+        the South Pole'' (with R.~Abbasi {\it et al.}
+        [IceCube Collaboration]). arXiv:1111.5188
+        [astro-ph.HE] %(Nov 2011)  (2011).
+
+\item ``Studies on the unfolding of the atmospheric neutrino
+        spectrum with   IceCube 59 using the TRUEE
+        algorithm'' (with R.~Abbasi {\it et al.}   [IceCube
+        Collaboration]).  \\{}arXiv:1111.2736 [astro-ph.HE]
+        %(Aug 2011)  (2011).
+
+\item ``The IceCube Neutrino Observatory IV: Searches for
+        Dark Matter and   Exotic Particles'' (with R.~Abbasi
+        {\it et al.}  [IceCube     Collaboration]).
+        \\{}arXiv:1111.2738 [astro-ph.HE] %(Nov 2011)
+        (2011).
+
+\item ``The IceCube Neutrino Observatory I: Point Source
+        Searches'' (with R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]). arXiv:1111.2741 [astro-ph.HE] %(Nov
+        2011)  (2011).
+
+\item ``The IceCube Neutrino Observatory V: Future
+        Developments'' (with R.~Abbasi {\it et al.}
+        [IceCube Collaboration]). arXiv:1111.2742
+        [astro-ph.IM] %(Nov 2011)  (2011).
+
+\item ``IceCube Sensitivity for Low-Energy Neutrinos from
+        Nearby   Supernovae'' (with R.~Abbasi {\it et al.}
+        [IceCube Collaboration]). arXiv:1108.0171
+        [astro-ph.HE] \\{}Astron.\ Astrophys.\ {\bf
+        535}, A109 (2011) %(Aug 2011)  (2011).
+
+\item ``Observation of Anisotropy in the Arrival Directions
+        of Galactic   Cosmic Rays at Multiple Angular Scales
+        with IceCube'' (with R.~Abbasi   {\it et al.}
+        [IceCube Collaboration]).  \\{}arXiv:1105.2326
+        [astro-ph.HE] \\{}10.1088/0004-637X/740/1/16
+        \\{}Astrophys.\ J.\ {\bf 740}, 16 (2011) %(May 2011)
+        (2011).
+
+\item ``Constraints on high-energy neutrino emission from SN
+        2008D'' (with R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]). arXiv:1101.3942 [astro-ph.HE]
+        \\{}Astron.\ Astrophys.\ {\bf     527}, A28 (2011)
+        %(Jan 2011)  (2011).
+
+\item ``Search for neutrino-induced cascades with five years
+        of AMANDA   data'' (with R.~Abbasi, Y.~Abdou,
+        T.~Abu-Zayyad, O.~Actis, J.~Adams,   J.~A.~Aguilar,
+        M.~Ahlers and K.~Andeen {\it et al.}).
+        10.1016/j.astropartphys.2010.10.007 \\{}Astropart.\
+        Phys.\ {\bf     34}, 420 (2011).
+
+\item ``Time-Integrated Searches for Point-like Sources of
+        Neutrinos with   the 40-String IceCube Detector''
+        (with R.~Abbasi {\it et al.}   [IceCube
+        Collaboration]).  \\{}arXiv:1012.2137 [astro-ph.HE]
+        \\{}10.1088/0004-637X/732/1/18 \\{}Astrophys.\ J.\
+        {\bf 732}, 18   (2011) %(Dec 2010)  (2011).
+
+\item ``Measurement of Acoustic Attenuation in South Pole
+        Ice'' (with R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]). arXiv:1004.1694 [astro-ph.IM]
+        \\{}10.1016/j.astropartphys.2010.10.003
+        \\{}Astropart.\ Phys.\ {\bf     34}, 382 (2011)
+        %(Apr 2010)  (2011).
+
+\item ``Supernova PTF 09uj: A possible shock breakout from a
+        dense   circumstellar wind'' (with E.~O.~Ofek,
+        I.~Rabinak, J.~D.~Neill,   I.~Arcavi, S.~B.~Cenko,
+        E.~Waxman, S.~R.~Kulkarni and A.~G.~Yam {\it
+        {\it et al.}}.  \\{}arXiv:1009.5378 [astro-ph.HE]
+        \\{}10.1088/0004-637X/724/2/1396 \\{}Astrophys.\ J.\
+        {\bf 724}, 1396   (2010) %(Sep 2010)  (2010).
+
+\item ``Search for relativistic magnetic monopoles with the
+        AMANDA-II   neutrino telescope'' (with R.~Abbasi,
+        Y.~Abdou, T.~Abu-Zayyad,   J.~Adams, J.~A.~Aguilar,
+        M.~Ahlers, K.~Andeen and J.~Auffenberg {\it     {\it
+        et al.}}.  \\{}10.1140/epjc/s10052-010-1411-6
+        \\{}Eur.\ Phys.\ J.\ C {\bf 69}, 361 (2010).
+
+\item ``Measurement of the Anisotropy of Cosmic Ray Arrival
+        Directions with   IceCube'' (with R.~Abbasi {\it et
+        al.}  [IceCube Collaboration]). arXiv:1005.2960
+        [astro-ph.HE] \\{}10.1088/2041-8205/718/2/L194
+        \\{}Astrophys.\ J.\ {\bf 718}, L194 (2010) %(May
+        2010)  (2010).
+
+\item ``The Energy Spectrum of Atmospheric Neutrinos between
+        2 and 200 TeV   with the AMANDA-II Detector'' (with
+        R.~Abbasi {\it et al.}  [IceCube
+        Collaboration]).  \\{}arXiv:1004.2357 [astro-ph.HE]
+        \\{}10.1016/j.astropartphys.2010.05.001
+        \\{}Astropart.\ Phys.\ {\bf     34}, 48 (2010) %(Apr
+        2010)  (2010).
+
+\item ``IceCube Collaboration Contributions to the 2009
+        International Cosmic   Ray Conference'' (with
+        R.~Abbasi, Y.~Abdou, T.~Abu-Zayyad, J.~Adams,
+        J.~A.~Aguilar, M.~Ahlers, K.~Andeen and
+        J.~Auffenberg {\it et al.}). arXiv:1004.2093
+        [astro-ph.HE] %(Apr 2010)  (2010).
+
+\item ``Core-Collapse Supernovae from the Palomar Transient
+        Factory:   Indications for a Different Population in
+        Dwarf Galaxies'' (with I.~Arcavi, A.~Gal-Yam,
+        M.~M.~Kasliwal, R.~M.~Quimby, E.~O.~Ofek,
+        S.~R.~Kulkarni, P.~E.~Nugent and S.~B.~Cenko {\it et
+        al.}). arXiv:1004.0615 [astro-ph.CO]
+        \\{}10.1088/0004-637X/721/1/777   \\{}Astrophys.\
+        J.\ {\bf 721}, 777 (2010) %(Apr 2010)  (2010).
+
+\item ``Measurement of sound speed vs. depth in South Pole
+        ice for neutrino   astronomy'' (with R.~Abbasi {\it
+        et al.}  [IceCube Collaboration]). arXiv:0909.2629
+        [astro-ph.IM]
+        \\{}10.1016/j.astropartphys.2010.01.012
+        \\{}Astropart.\ Phys.\ {\bf     33}, 277 (2010)
+        %(Sep 2009)  (2010).
+
+\item ``Search for muon neutrinos from Gamma-Ray Bursts with
+        the IceCube   neutrino telescope'' (with R.~Abbasi
+        {\it et al.}  [IceCube     Collaboration]).
+        \\{}arXiv:0907.2227 [astro-ph.HE]
+        \\{}10.1088/0004-637X/710/1/346 \\{}Astrophys.\ J.\
+        {\bf 710}, 346   (2010) %(Jul 2009)  (2010).
+
+\item ``The IceCube Data Acquisition System: Signal Capture,
+        Digitization, and Timestamping,'' (with R. Abbassi
+        {\it et al.}), LBNL-1668E, arXiv:0810.4930
+        [physics.ins-det] 10.1016/j.nima.2009.01.001.
+        Nuclear Instruments and Methods {\bf A601}, 294
+        (2009).
+
+\item ``The Palomar Transient Factory: System Overview,
+        Performance and   First Results'' (with N.~M.~Law,
+        S.~R.~Kulkarni, R.~G.~Dekany,   E.~O.~Ofek,
+        R.~M.~Quimby, P.~E.~Nugent, J.~Surace and
+        C.~C.~Grillmair {\it et al.}.  \\{}arXiv:0906.5350
+        [astro-ph.IM] %(Jun 2009)  (2009).
+
+\item ``First Neutrino Point-Source Results From the
+        22-String IceCube   Detector'' (with R.~Abbasi {\it
+        et al.}  [IceCube Collaboration]). arXiv:0905.2253
+        [astro-ph.HE] \\{}10.1088/0004-637X/701/1/L47
+        \\{}Astrophys.\ J.\ {\bf 701}, L47 (2009) %(May
+        2009)  (2009).
+
+\item ``Search for High-Energy Muon Neutrinos from the
+        'Naked-Eye' GRB   080319B with the IceCube Neutrino
+        Telescope,” R. Abassi {\it et al.},
+        Astrophysical Journal 701'' 1721-1731, {\bf DOI}:
+        10.1088/0004-637X/701/2/1721 (2009).
+
+\item ``Search for Ultra High-Energy Neutrinos with
+        AMANDA-II'' (with M.~Ackermann {\it et al.}
+        [IceCube Collaboration]). arXiv:0711.3022 [astro-ph]
+        \\{}10.1086/527046   \\{}Astrophys.\ J.\ {\bf 675},
+        1014 (2008) %(Nov 2007)  (2008).
+
+\item ``Solar Energetic Particle Spectrum on 13 December
+        2006 Determined   by IceTop,” R. Abassi {\it et
+        al.}, Astrophysical J. Lett. {\bf 689}, L65  ''
+        (2008).
+
+\item ``IceCube: A multipurpose neutrino telescope'' (with
+        K.~Rawlins {\it et   al.}  [IceCube Collaboration]).
+        J.\ Phys.\ Soc.\ Jap.\ Suppl.\ {\bf 77B}, 71 (2008).
+
+\item ``The Search for Muon Neutrinos from Northern
+        Hemisphere Gamma-Ray   Bursts with AMANDA'' (with
+        A.~Achterberg {\it et al.}  [IceCube and     IPN
+        Collaborations].  \\{}arXiv:0705.1186 [astro-ph]
+        \\{}10.1086/524920 \\{}Astrophys.\ J.\ {\bf 674},
+        357 (2008) %(May   2007)  (2008).
+
+\item ``Solar Energetic Particle Spectrum on 13 December
+        2006 Determined by   IceTop'' (with R.~Abbasi {\it
+        et al.}  [IceCube Collaboration]). arXiv:0810.2034
+        [astro-ph] %(Oct 2008)  (2008).
+
+\item ``Detection of Atmospheric Muon Neutrinos with the
+        IcCube 9-String   Detector'' (with the IceCube
+        Collaboration, A.  Achterberg {\it et al.}),   Phys.
+        Rev. {\bf D76} 027901 (2007).
+
+\item ``Multiyear Search for a Diffuse Flux of Muon
+        Neutrinos with   AMANDA-II'' (with the IceCube
+        Collaboration, A.  Achterberg {\it et al.}),   Phys.
+        Rev. {\bf D76} 042008 (2007).
+
+\item ``Search for Ultra-High Energy Neutrinos with
+        AMANDA-II'' (with the   IceCube Collaboration, M.
+        Ackermann {\it et al.}), preprint   arXiv:0711.3022,
+        to appear in Astrophys. J (2007).
+
+\item ``IceCube - Construction Status, Performance Results
+        of the 22   String Detector'' (with the IceCube
+        Collaboration, A. Karle {\it et al.}),   Proceedings
+        of the XXXth International Cosmic Ray Conference,
+        Merida, Mexico (2007).
+
+\item ``The Combined AMANDA and IceCube Neutrino Telescope''
+        (with the   IceCube Collaboration, A. Gross {\it et
+        al.}), Proceedings of the XXXth   International
+        Cosmic Ray Conference, Merida, Mexico (2007).
+
+\item ``Performance of the IceTop Array'' (with the IceCube
+        Collaboration,   T.K. Gaisser {\it et al.}),
+        Proceedings of the XXXth International Cosmic   Ray
+        Conference, Merida, Mexico (2007).
+
+\item ``Heliospheric Physics with IceTop'' (with the IceCube
+        Collaboration, T. Kubawara {\it et al.}),
+        Proceedings of the XXXth   International Cosmic Ray
+        Conference, Merida, Mexico (2007).
+
+\item ``Measuring Cosmic Ray Composition at the Knee with
+        SPASE-2 and   AMANDA'' (with the IceCube and SPASE-2
+        Collaborations, K.G. Andeen et   al.), Proceedings
+        of the XXXth International Cosmic Ray Conference,
+        Merida, Mexico (2007).
+
+\item ``Cosmic Rays in IceCube: Composition-sensitive
+        Observables'' (with   the IceCube Collaboration, C.
+        Song {\it et al.}), Proceedings of the XXXth
+        International Cosmic Ray Conference, Merida, Mexico
+        (2007).
+
+\item ``Search for TeV gamma-rays from Point Sources with
+        SPASE-2'' (with   the IceCube and SPASE-2
+        Collaborations, K. James {\it et al.}),
+        Proceedings of the XXXth International Cosmic Ray
+        Conference,   Merida, Mexico (2007).
+
+\item ``Study of High Pt Muons in Air Showers with IceCube''
+        (with the   IceCube Collaboration, S. Klein {\it et
+        al.}), Proceedings of the XXXth   International
+        Cosmic Ray Conference, Merida, Mexico (2007).
+
+\item ``IceTop/IceCube Coincidences'' (with the IceCube
+        Collaboration,   X. Bai {\it et al.}), Proceedings
+        of the XXXth International Cosmic Ray   Conference,
+        Merida, Mexico (2007).
+
+\item ``Lateral Distribution of Air Shower Signals and
+        Initial Energy   Spectrum Above 1 PeV from IceTop''
+        (with the IceCube Collaboration,   S. Klepser {\it
+        et al.}), Proceedings of the XXXth International
+        Cosmic   Ray Conference, Merida, Mexico (2007).
+
+\item ``IceTop Tank Response to Muons'' (with the IceCube
+        Collaboration,   L. Demirors {\it et al.}),
+        Proceedings of the XXXth International Cosmic   Ray
+        Conference, Merida, Mexico (2007).
+
+\item ``Response of IceTop Tanks to Low-energy Particles''
+        (with the   IceCube Collaboration, J.M. Clem {\it et
+        al.}), Proceedings of the XXXth   International
+        Cosmic Ray Conference, Merida, Mexico (2007).
+
+\item ``Testing Alternative Oscillation Scenarios with
+        Atmospheric   Neutrinos Using AMANDA-II Data'' (with
+        the IceCube Collaboration,   J. Ahrens {\it et
+        al.}), Proceedings of the XXXth International Cosmic
+        Ray   Conference, Merida, Mexico (2007).
+
+\item ``Atmospheric Muon Neutrino Analysis with IceCube''
+        (with the   IceCube Collaboration, J. Pretz {\it et
+        al.}), Proceedings of the XXXth   International
+        Cosmic Ray Conference, Merida, Mexico (2007).
+
+\item ``Muon Energy Reconstruction and Atmospheric Neutrino
+        Spectrum   Unfolding with the IceCube Detector''
+        (with the IceCube Collaboration,   J.D. Zornoza {\it
+        et al.}), Proceedings of the XXXth International
+        Cosmic   Ray Conference, Merida, Mexico (2007).
+
+\item ``Searches for a Diffuse Flux of Extra-terrestrial
+        Muon Neutrinos   with AMANDA-II and IceCube'' (with
+        the IceCube Collaboration,   K. Hoshina {\it et
+        al.}), Proceedings of the XXXth International Cosmic
+        Ray Conference, Merida, Mexico (2007).
+
+\item ``Measurement of the Atmospheric Lepton Energy Spectra
+        with   AMANDA-II'' (with the IceCube Collaboration,
+        K. Munich {\it et al.}),   Proceedings of the XXXth
+        International Cosmic Ray Conference,   Merida,
+        Mexico (2007).
+
+\item ``Multi-year Search for UHE Diffuse Neutrino Flux with
+        AMANDA-II  '' (with the IceCube Collaboration, L.
+        Gerhardt), Proceedings of the   XXXth International
+        Cosmic Ray Conference, Merida, Mexico (2007).
+
+\item ``Likelihood Deconvolution of Diffuse Prompt and
+        Extra-terrestrial   Neutrino Fluxes in the AMANDA-II
+        Detector'' (with the IceCube   Collaboration, G.C.
+        Hill {\it et al.}), Proceedings of the XXXth
+        International Cosmic Ray Conference, Merida, Mexico
+        (2007).
+
+\item ``Search for Neutrino-induced Cascades with AMANDA
+        Data Taken in   2000-2004'' (O. Tarasova {\it et
+        al.}), Proceedings of the XXXth   International
+        Cosmic Ray Conference, Merida, Mexico (2007).
+
+\item ``EHE Neutrino Search with the IceCube 9 String
+        Array'' (with the   IceCube Collaboration, A.
+        Ishihara {\it et al.}), Proceedings of the XXXth
+        International Cosmic Ray Conference, Merida, Mexico
+        (2007).
+
+\item ``Very High Energy Electromagnetic Cascades in the LPM
+        Regime with   IceCube'' (with the IceCube
+        Collaboration, J. Bolmont {\it et al.}),
+        Proceedings of the XXXth International Cosmic Ray
+        Conference,   Merida, Mexico (2007).
+
+\item ``IceCube Performance with Artificial Light Sources:
+        The Road to   Cascade Analyses'' (with the IceCube
+        Collaboration, J. Kiryluk et   al.), Proceedings of
+        the XXXth International Cosmic Ray Conference,
+        Merida, Mexico (2007).
+
+\item ``Neutrino Point Source Search Strategies for
+        AMANDA-II and   Results from 2005'' (with the
+        IceCube Collaboration, J. Braun {\it et al.}),
+        Proceedings of the XXXth International Cosmic Ray
+        Conference,   Merida, Mexico (2007).
+
+\item ``Point Source Analysis for Cosmic Neutrinos Beyond
+        PeV Energies   with AMANDA and IceCube'' (with the
+        IceCube Collaboration, R. Franke   {\it et al.}),
+        Proceedings of the XXXth International Cosmic Ray
+        Conference, Merida, Mexico (2007).
+
+\item ``Nine-string IceCube Point Source Analysis'' (with
+        the IceCube   Collaboration, C. Finley {\it et
+        al.}), Proceedings of the XXXth   International
+        Cosmic Ray Conference, Merida, Mexico (2007).
+
+\item ``Search for Signatures of Extra-terrestrial Neutrinos
+        with a   Multipole Analysis of the AMANDA-II
+        Sky-map'' (with the IceCube   Collaboration, J.P.
+        Hulss {\it et al.}), Proceedings of the XXXth
+        International Cosmic Ray Conference, Merida, Mexico
+        (2007).
+
+\item ``Cluster Search for Neutrino Flares from Pre-defined
+        Directions  '' (with the IceCube Collaboration, K.
+        Satalecka {\it et al.}), Proceedings   of the XXXth
+        International Cosmic Ray Conference, Merida, Mexico
+        (2007).
+
+\item ``All-sky Search for Transient Sources of Neutrinos
+        Using Give   Years of AMANDA-II Data'' (with the
+        IceCube Collaboration, R. Porrata   {\it et al.}),
+        Proceedings of the XXXth International Cosmic Ray
+        Conference, Merida, Mexico (2007).
+
+\item ``Neutrino Triggered Target of Opportunity'' (NToO)
+        Test Run with   AMANDA-II and MAGIC (with the
+        IceCube and MAGIC Collaborations,   M. Ackerman {\it
+        et al.}), Proceedings of the XXXth International
+        Cosmic   Ray Conference, Merida, Mexico (2007).
+
+\item ``Detecting GRBs with IceCube and Optical Follow-up
+        Observations  '' (with the IceCube Collaboration, A.
+        Kappes {\it et al.}), Proceedings of   the XXXth
+        International Cosmic Ray Conference, Merida, Mexico
+        (2007).
+
+\item ``Search for Neutralino Dark Matter with the AMANDA
+        Neutrino   Telescope'' (with the IceCube
+        Collaboration, D. Hubert {\it et al.}),
+        Proceedings of the XXXth International Cosmic Ray
+        Conference,   Merida, Mexico (2007).
+
+\item ``Prospects of Dark Matter Detection in IceCube''
+        (with the IceCube   Collaboration, G. Wikstrom {\it
+        et al.}), Proceedings of the XXXth   International
+        Cosmic Ray Conference, Merida, Mexico (2007).
+
+\item ``Search for Relativistic Magnetic Monopoles with the
+        AMANDA-II   Detector'' (with the IceCube
+        Collaboration, H. Wissing {\it et al.}),
+        Proceedings of the XXXth International Cosmic Ray
+        Conference,   Merida, Mexico (2007).
+
+\item ``Subrelativistic Particle Searches with the AMANDA-II
+        Detector  '' (with the IceCube Collaboration, A.
+        Pohl {\it et al.}), Proceedings of the   XXXth
+        International Cosmic Ray Conference, Merida, Mexico
+        (2007).
+
+\item ``Exotic Particles Searches with IceCube'' (with the
+        IceCube   Collaboration, B. Christy {\it et al.}),
+        Proceedings of the XXXth   International Cosmic Ray
+        Conference, Merida, Mexico (2007).
+
+\item ``Effect of the Improved Data Acquisition System of
+        IceCube on its   Neutrino-detection Capabilities''
+        (with the IceCube Collaboration,   D. Chirkin {\it
+        et al.}), Proceedings of the XXXth International
+        Cosmic   Ray Conference, Merida, Mexico (2007).
+
+\item ``Improved Cherenkov Light Propagation Methods for the
+        IceCube   Neutrino Telescope'' (with the IceCube
+        Collaboration, J. Lundberg et   al.), Proceedings of
+        the XXXth International Cosmic Ray Conference,
+        Merida, Mexico (2007).
+
+\item ``Reconstruction of High Energy Muon Events in IceCube
+        Using   Waveforms'' (with the IceCube Collaboration,
+        S. Grullon {\it et al.}),   Proceedings of the XXXth
+        International Cosmic Ray Conference,   Merida,
+        Mexico (2007).
+
+\item ``Radio Detection of GZK Neutrinos - AURA Status and
+        Plans'' (with   the IceCube Collaboration, H.
+        Landsman {\it et al.}), Proceedings of the   XXXth
+        International Cosmic Ray Conference, Merida, Mexico
+        (2007).
+
+\item ``Search for neutrino-induced cascades from gamma-ray
+        bursts with   AMANDA'' (with A.~Achterberg {\it et
+        al.}  [IceCube Collaboration]). astro-ph/0702265
+        \\{}10.1086/518596 \\{}Astrophys.\ J.\ {\bf
+        664}, 397 (2007) %(Mar 2007)  (2007).
+
+\item ``The ICECUBE Prototype String in AMANDA'' (with
+        M.~Ackermann {\it et   al.}  [AMANDA
+        Collaboration]).  \\{}astro-ph/0601397
+        \\{}10.1016/j.nima.2005.10.029 \\{}Nucl.\ Instrum.\
+        Meth.\ A {\bf     556}, 169 (2006) %(Jan 2006)
+        (2006).
+
+\item ``First Year Performance of The IceCube Neutrino
+        Telescope'' (with A.~Achterberg {\it et al.}
+        [IceCube Collaboration]). astro-ph/0604450
+        \\{}10.1016/j.astropartphys.2006.06.007
+        \\{}Astropart.\ Phys.\ {\bf 26}, 155 (2006) %(Apr
+        2006)  (2006).
+
+\item ``On the Selection of AGN Neutrino Source Candidates
+        for a Source   Stacking Analysis with Neutrino
+        Telescopes'' (with A.~Achterberg {\it     {\it et
+        al.}}  [IceCube Collaboration]).
+        \\{}astro-ph/0609534
+        \\{}10.1016/J.ASTROPARTPHYS.2006.06.012
+        \\{}Astropart.\ Phys.\ {\bf     26}, 282 (2006)
+        %(Sep 2006)  (2006).
+
+\item ``Astroparticle physics with high energy neutrinos:
+        from AMANDA to   IceCube'' (F. Halzen {\it et al.}).
+        The European Physical Journal {\bf C} -   Particles
+        and Fields  21pp. 10.1140/epjc/s2006-02536-4 (2006).
+
+\item ``Contributions to 2nd TeV Particle Astrophysics
+        Conference (TeV PA   II). Madison, Wisconsin 28-31
+        Aug 2006'' (with A.~Achterberg {\it et     al.}
+        [IceCube Collaboration]).  \\{}astro-ph/0611597
+        \\{}%Submitted to: J.Phys.Conf.Ser. %(Nov 2006)
+        (2006).
+
+\item ``Limits on the Muon Flux from Neutralino
+        Annihilations at the center   of the Earth with
+        AMANDA'' (with A.~Achterberg {\it et al.}  [AMANDA
+        Collaboration]).
+        \\{}10.1016/j.astropartphys.2006.05.007
+        \\{}Astropart.\ Phys.\ {\bf 26}, 129 (2006).
+
+\item ``From AMANDA to IceCube'' (with M.~Ribordy {\it et
+        al.}  [IceCube   Collaboration]).
+        \\{}astro-ph/0509322 \\{}10.1134/S1063778806110147
+        \\{}Phys.\ Atom.\ Nucl.\ {\bf 69}, 1899 (2006) %(Sep
+        2005)  (2006).
+
+\item ``Limits to the muon flux from neutralino
+        annihilations in the sun   with the amanda
+        detector'' (with M.~Ackermann {\it et al.}  [AMANDA
+        Collaboration]).  \\{}astro-ph/0508518
+        \\{}10.1016/j.astropartphys.2005.09.006
+        \\{}Astropart.\ Phys.\ {\bf     24}, 459 (2006)
+        %(Aug 2005)  (2006).
+
+\item ``Search for Extraterrestrial Point Sources of High
+        Energy   Neutrinos with AMANDA-II Using Data
+        Collected in 2000-2002'' (with the   AMANDA
+        Collaboration, M. Ackermann {\it et al.}).  Phys.
+        Rev. {\bf D71}   077102 (2005).
+
+\item ``Neutrino Astronomy and Cosmic Rays at the South
+        Pole: Latest   Results from AMANDA and Perspectives
+        for IceCube'' (with the AMANDA   and IceCube
+        Collaborations, P. Desiati {\it et al.}).  Prepared
+        for 19th   European Cosmic Ray Symposium (ECRS
+        2004), Florence, Italy (30 Aug -   3 Sep 2004).
+        Int. J. Mod. Phys. {\bf A20} 6919-6923 (2005).
+
+\item ``New Results from the Antarctic Muon and Neutrino
+        Detector Array  '' (with the AMANDA Collaboration,
+        J. Ahrens {\it et al.}).  To appear in the
+        proceedings of 21st International Conference on
+        Neutrino Physics and   Astrophysics (Neutrino 2004),
+        Paris, France (14-19 Jun   2004). Published in Nucl.
+        Phys. Proc. Suppl. {\bf 143} 343-350   (2005). Also
+        in Paris 2004, Neutrino Physics and Astrophysics
+        343-350. (2005).
+
+\item ``Multi-messenger Studies with AMANDA/IceCube:
+        Observations and   Strategies'' (with IceCube
+        Collaboration, A. Achterberg {\it et al.}).  To
+        appear in the proceedings of 7th Workshop on Towards
+        a Network of   Atmospheric Cherenkov Detectors 2005,
+        Palaiseau, France (27-29 Apr   2005).
+
+\item ``Results from the AMANDA Neutrino Telescope'' (with
+        the AMANDA   Collaboration, J. Ahrens {\it et al.}).
+        Nucl. Phys. Proc. Suppl. {\bf     138} 167-170
+        (2005).
+
+\item ``The IceCube Collaboration: Contributions to the 29th
+        International Cosmic Ray Conference'' (ICRC 2005),
+        Pune, India,   Aug. 2005 (with the IceCube
+        Collaboration, A. Achterberg {\it et al.}).
+        Contributed to 29th International Cosmic Ray
+        Conference (ICRC 2005),   Pune, India (3-11 Aug
+        2005).
+
+\item ``Multi-messenger studies with amanda/icecube:
+        observations and   strategies'' (with A.~Achterberg
+        {\it et al.}  [IceCube     Collaboration]).
+        \\{}astro-ph/0509396 %(Sep 2005)  (2005).
+
+\item ``New results from the AMANDA neutrino telescope''
+        (with M.~Ackermann   {\it et al.}  [AMANDA
+        Collaboration]). 10.1016/j.nuclphysbps.2005.04.030
+        \\{}Nucl.\ Phys.\ Proc.\ Suppl.\ {\bf 145}, 319
+        (2005).
+
+\item ``Flux limits on ultra high energy neutrinos with
+        AMANDA-B10'' (with M.~Ackermann, J.~Ahrens,
+        H.~Albrecht, D.~Atlee, X.~Bai, R.~Bay,   M.~Bartelt
+        and S.~W.~Barwick {\it et al.}).
+        10.1016/j.astropartphys.2004.09.008 \\{}Astropart.\
+        Phys.\ {\bf     22}, 339 (2005).
+
+\item ``IceCube: The Cubic Kilometer Neutrino Telescope at
+        the South   Pole'' (with the IceCube Collaboration,
+        A.R. Fazely {\it et al.}).  8pp.   e-Print archive:
+        astro-ph/0406125v1 (2004).
+
+\item ``Results from the AMANDA Neutrino Telescope'' (with
+        C.~de los Heros,   M.~Ackermann, J.~Ahrens,
+        H.~Albrecht, X.~Bai, R.~Bay, M.~Bartelt and
+        S.~W.~Barwick {\it et al.}.
+        \\{}10.1016/j.nuclphysbps.2004.10.003   \\{}Nucl.\
+        Phys.\ Proc.\ Suppl.\ {\bf 136}, 85 (2004).
+
+\item ``Measurement of the Cosmic Ray Composition at the
+        Knee with the   SPASE-2/AMANDA-B10 Detectors'' (with
+        the AMANDA and SPASE   Collaborations, J. Ahrens
+        {\it et al.}).  Astropart. Phys. {\bf 21}   565-581
+        (2004).
+
+\item ``Results from the AMANDA Detector'' (with the AMANDA
+        Collaboration,   P. Olbrechts {\it et al.}).
+        Prepared for Cracow Epiphany Conference on
+        Astroparticle Physics, Cracow, Poland (8-11 Jan
+        2004).  Published in   Acta Phys. Polon. {\bf B35}
+        1919-1931 (2004).
+
+\item ``Calibration and Survey of AMANDA with the SPASE
+        Detectors'' (with   the SPASE and AMANDA
+        Collaborations, J. Ahrens {\it et al.}).   Nucl.
+        Instrum. Meth. {\bf A522} 347-359 (2004).
+
+\item ``Status of the IceCube Neutrino Observatory'' (with
+        the IceCube   Collaboration, J. Ahrens {\it et
+        al.}).  Prepared for 2nd VERITAS   Symposium on TeV
+        Astrophysics of Extragalactic Sources, Chicago,
+        Illinois (24-26 Apr 2003).  Published in New Astron.
+        Rev. {\bf 48}   519-525 (2004).
+
+\item ``AMANDA: Status and latest results'' (with M.~Ribordy
+        {\it et al.}   [AMANDA Collaboration]).
+        \\{}hep-ex/0405035 %(May 2004)  (2004).
+
+\item ``Search for Neutrino-induced Cascades with AMANDA''
+        (with the   AMANDA Collaboration, M. Ackermann {\it
+        et al.}).  Astropart. Phys. {\bf     22} 127-138
+        (2004).
+
+\item ``The IceCube Project'' (with C.~Spiering {\it et al.}
+        [IceCube   Collaboration]).  \\{}astro-ph/0404090
+        %(Apr 2004)  (2004).
+
+\item ``Muon Track Reconstruction and Data Selection
+        Techniques in   AMANDA'' (with the AMANDA
+        Collaboration, J. Ahrens {\it et al.}).   Nucl.
+        Instrum. Meth. {\bf A524} 169-194 (2004).
+
+\item ``Sensitivity of the IceCube Detector to Astrophysical
+        Sources of   High Energy Muon Neutrinos'' (with the
+        IceCube Collaboration,   J. Ahrens {\it et al.}).
+        Astropart. Phys. {\bf 20} 507-532 (2004).
+
+\item ``IceCube - The Next Generation Neutrino Telescope at
+        the South   Pole'' (with the IceCube Collaboration,
+        J. Ahrens {\it et al.}).  To appear   in the
+        proceedings of 20th International Conference on
+        Neutrino   Physics and Astrophysics (Neutrino 2002),
+        Munich, Germany (25-30 May   2002).  Nucl. Phys.
+        Proc. Suppl. {\bf 118} 388-395 (2003).
+
+\item ``Results from the Antarctic Muon and Neutrino
+        Detector Array  '' (AMANDA) (with the AMANDA
+        Collaboration, J. Ahrens {\it et al.}).   Nucl.
+        Phys. Proc. Suppl. {\bf 118} 371-379 (2003). ~ \item
+        ``The IceCube Project'' (with the IceCube
+        Collaboration, Christian   Spiering {\it et al.}).
+        Talk given at VLVnT Workshop on Technical Aspects
+        of a Very Large Volume Neutrino Telescope in the
+        Mediterrenean Sea,   Amsterdam, The Netherlands (5-8
+        Oct 2003). Published in Amsterdam   2003, Technical
+        aspects of a Very Large Volume Neutrino Telescope in
+        the Mediterranean Sea 21-25. (2003).
+
+\item ``Results from the AMANDA Telescope.'' (with the
+        AMANDA   Collaboration, J. Ahrens {\it et al.}).
+        Nucl. Phys. {\bf A721} 545-548   (2003).
+
+\item ``Recent Results from the AMANDA Experiment'' (with
+        the AMANDA   Collaboration, Peter Niessen {\it et
+        al.}).  To appear in the proceedings   of 38th
+        Rencontres de Moriond on Electroweak Interactions
+        and   Unified Theories, Les Arcs, France (15-22 Mar
+        2003.) (2003).
+
+\item ``Results from the AMANDA telescope'' (with J.~Ahrens
+        {\it et al.}   [AMANDA Collaboration]).
+        \\{}10.1016/S0375-9474(03)01120-5   \\{}Nucl.\
+        Phys.\ A {\bf 721}, 545 (2003).
+
+\item ``Recent results from the amanda experiment'' (with
+        P.~Niessen {\it et   al.}  [AMANDA Collaboration]).
+        \\{}astro-ph/0306209 %(Jun 2003)  (2003).
+
+\item ``Icecube - the next generation neutrino telescope at
+        the south pole'' (with J.~Ahrens {\it et al.}
+        [IceCube Collaboration]). astro-ph/0209556
+        \\{}Nucl.\ Phys.\ Proc.\ Suppl.\  {\bf 118}, 388
+        (2003) %(Sep 2002)  (2003).
+
+\item ``Search For Neutrino-Induced Cascades With the AMANDA
+        Detector''   (with the AMANDA Collaboration, J.
+        Ahrens {\it et al.}).  Physical Review {\bf   D67}
+        012003 (2003).
+
+\item ``Observation of High Energy Atmospheric Neutrinos
+        with AMANDA  '' (with the AMANDA Collaboration, A.
+        Karle {\it et al.}).  Prepared for 7th   Conference
+        on Intersections Between Particle and Nuclear
+        Physics   (CIPANP 2000), Quebec City, Quebec, Canada
+        (22-28 May 2000).  AIP   Conf. Proc. {\bf 549}
+        823-827 (2002).
+
+\item ``IceCube - the Next Generation Neutrino Telescope at
+        the South   Pole'' (with the IceCube Collaboration,
+        A. Karle {\it et al.}).  8pp.   e-Print archive:
+        arXiv:astro-ph/0209556v1 (2002).
+
+\item ``Recent Results from AMANDA II'' (with the AMANDA
+        Collaboration,   K. Hanson {\it et al.}).  Prepared
+        for 31st International Conference on   High Energy
+        Physics (ICHEP 2002), Amsterdam, The Netherlands
+        (24-31   Jul 2002). Published in Amsterdam 2002,
+        ICHEP 126-128. (2002).
+
+\item ``Results from AMANDA'' (with C.~Wiebusch {\it et al.}
+        [AMANDA   Collaboration]).
+        \\{}10.1142/S0217732302008575   \\{}Mod.\ Phys.\
+        Lett.\ A {\bf 17}, 2019 (2002).
+
+\item ``Physics and Operation of the AMANDA-II High Energy
+        Neutrino   Telescope'' (with the AMANDA
+        Collaboration, J. Ahrens {\it et al.}).
+        Proceedings of Conference on Astronomical Telescopes
+        and Instrumenation, Waikoloa, Hawaii (22-28 Aug
+        2002).
+
+\item ``Search for Point Sources of High Energy Neutrinos
+        with AMANDA''   (the AMANDA Collaboration, J. Ahrens
+        {\it et al.}) (Aug   2002). 46pp. Submitted to
+        Astrophys. J. (2002) e-Print Archive:
+        astro-ph/0208006.  (2002).
+
+\item ``Results from AMANDA (by the AMANDA Collaboration''
+        (with the   AMANDA Collaboration, C. Wiebusch {\it
+        et al.}).  19pp.  Modern Physics   Letters {\bf A
+        17}, 31 2019-2037 (2002).
+
+\item ``Search For Supernova Neutrino Bursts With The AMANDA
+        Detector''   (the AMANDA Collaboration, J. Ahrens
+        {\it et al.}) (May 2001). 20pp.   Astropart. Phys.
+        {\bf 16} 345-359 (2002).  e-Print Archive:
+        astro-ph/0105460.  (2002).
+
+\item ``Calibration and Survey of AMANDA with SPASE'' (with
+        the AMANDA   Collaboration, X. Bai {\it et al.}),
+        Proceedings of the XXVIIth   International Cosmic
+        Ray Conference, Hamburg, Germany (2001).
+
+\item ``Time Calibration of the AMANDA Neutrino Telescope
+        with Cosmic   Ray Muons'' (with the AMANDA
+        Collaboration, D. Cowen {\it et al.}),   Proceedings
+        of the XXVIIth International Cosmic Ray Conference,
+        Hamburg, Germany (2001).
+
+\item ``Analysis of Atmospheric Muons with AMANDA'' (with
+        the AMANDA   Collaboration, P. Desiati {\it et
+        al.}), Proceedings of the XXVIIth   International
+        Cosmic Ray Conference, Hamburg, Germany (2001).
+
+\item ``Supernova Neutrino-Burst Search with the AMANDA
+        detector'' (with   the AMANDA Collaboration, T.
+        Neunhoeffer {\it et al.}), Proceedings of the
+        XXVIIth International Cosmic Ray Conference,
+        Hamburg, Germany   (2001).
+
+\item ``Search for Relativistic Monopoles with the AMANDA
+        Detector'' (with   the AMANDA Collaboration, P.
+        Niessen {\it et al.}), Proceedings of the   XXVIIth
+        International Cosmic Ray Conference, Hamburg,
+        Germany   (2001).
+
+\item ``Search for Cascade-like events in the AMANDA-B10
+        Detector'' (with   the AMANDA Collaboration, I.
+        Taboada {\it et al.}), Proceedings of the   XXVIIth
+        International Cosmic Ray Conference, Hamburg,
+        Germany   (2001).
+
+\item ``The AMANDA Search for High Energy Neutrinos from
+        Gamma Ray   Bursts'' (with the AMANDA Collaboration,
+        R. Hardtke {\it et al.}),   Proceedings of the
+        XXVIIth International Cosmic Ray Conference,
+        Hamburg, Germany (2001).
+
+\item ``A Method to Detect UHE Neutrinos with AMANDA'' (with
+        the AMANDA   Collaboration, S. Hundertmark {\it et
+        al.}), Proceedings of the XXVIIth   International
+        Cosmic Ray Conference, Hamburg, Germany (2001).
+
+\item ``Search for a Diffuse Flux from Sources of High
+        Energy Neutrinos   with AMANDA B-10'' (with the
+        AMANDA Collaboration G. Hill {\it et al.}),
+        Proceedings of the XXVIIth International Cosmic Ray
+        Conference,   Hamburg, Germany (2001).
+
+\item ``Observation of High Energy Atmospheric Neutrinos
+        with AMANDA  '' (with the AMANDA Collaboration, C.
+        Wiebusch {\it et al.}), Proceedings of   the XXVIIth
+        International Cosmic Ray Conference, Hamburg,
+        Germany   (2001).
+
+\item ``Performance of the AMANDA-II Detector'' (with the
+        AMANDA   Collaboration, M. Kowalski {\it et al.}),
+        Proceedings of the XXVIIth   International Cosmic
+        Ray Conference, Hamburg, Germany (2001).
+
+\item ``Potential of AMANDA-II in HE Neutrino Astrophysics''
+        (with the   AMANDA Collaboration, S. Barwick {\it et
+        al.}), Proceedings of the XXVIIth   International
+        Cosmic Ray Conference, Hamburg, Germany (2001).
+
+\item ``Observation of High-energy Neutrinos Using Cerenkov
+        Detectors   Embedded Deep in Antarctic Ice'' (with
+        the AMANDA Collaboration),   Proceedings of the
+        XXVIIth International Cosmic Ray Conference,
+        Hamburg, Germany (2001).
+
+\item ``Muon Monte Carlo: A New High-precision Tool for Muon
+        Propagation   Through Matter'' (with the AMANDA
+        Collaboration, D. Chirkin {\it et al.}),
+        Proceedings of the XXVIIth International Cosmic Ray
+        Conference,   Hamburg, Germany (2001).
+
+\item ``Recent Results From AMANDA'' (with the AMANDA
+        Collaboration,   E. Andres {\it et al.}).  Prepared
+        for DPF 2000: The Meeting of the   Division of
+        Particles and Fields of the American Physical
+        Society,   Columbus, Ohio (9-12 Aug 2000).
+        Published in   Int. J. Mod. Phys. {\bf A16S1C}
+        1013-1015 (2001).
+
+\item ``Physics Results From The AMANDA Neutrino Detector''
+        (with the   AMANDA Collaboration, Marek Kowalski
+        {\it et al.}) (Dec 2001). 5pp.     The proceedings
+        of International Europhysics Conference on
+        High-Energy Physics (HEP 2001), Budapest, Hungary
+        (2001).
+
+\item ``Results From AMANDA'' (with the AMANDA
+        Collaboration, J. Ahrens et   al.) (Mar 2001).
+        Prepared for 9th International Symposium on
+        Neutrino Telescopes, Venice, Italy (6-9 Mar 2001).
+        Published in   Venice 2001, Neutrino Telescopes,
+        Vol. 2 569-580 (2001).
+
+\item ``Initial Results from AMANDA'' (with the AMANDA
+        Collaboration,   J. Ahrens {\it et al.}).  Prepared
+        for 21st Rencontres de Moriond Workshop   on Very
+        High-Energy Phenomena in the Universe, Les Arcs,
+        France   (20-27 Jan 2001).  Published in Les Arcs,
+        Very High Energy   Phenomena in the Universe NAP-T4
+        (2001).
+
+\item ``Physics results from the AMANDA neutrino detector''
+        (with M.~Kowalski {\it et al.}  [AMANDA
+        Collaboration]). hep-ph/0112083 %(Dec 2001)  (2001).
+
+\item ``Results from the AMANDA high-energy neutrino
+        detector'' (with E.~Andres {\it et al.}  [AMANDA
+        Collaboration]). astro-ph/0009242
+        \\{}10.1016/S0920-5632(00)00971-3 \\{}Nucl.\ Phys.\
+        Proc.\ Suppl.\  {\bf 91}, 423 (2001) %(Jun 2000)
+        (2001).
+
+\item ``Wimp Searches With Amanda-B10'' (with the AMANDA
+        Collaboration,   X. Bai {\it et al.}) (Sep 2000).
+        7pp. Contribution to the proceedings of   3rd
+        International Workshop on the Identification of Dark
+        Matter   (IDM2000), York, England (18-22 Sep 2000).
+        Published in York 2000,   The Identification of Dark
+        Matter 499-505 (2000).
+
+\item ``Results From The AMANDA High-Energy Neutrino
+        Detector'' (with the   AMANDA Collaboration, E.
+        Andres {\it et al.}) (Jun 2000). 8pp. Submitted   to
+        Int. Conf. Neut. Phys. Astro. (Neutrino 2000).
+        Published in   Nucl. Phys. Proc. Suppl. {\bf 91}
+        423-430 (2000). Also in Sudbury   2000, Neutrino
+        Physics and Astrophysics 423-430 (2000).
+
+\item ``Status Of The Neutrino Telescope AMANDA: Monopoles
+        And Wimps  '' (with the AMANDA Collaboration, X. Bai
+        {\it et al.}) (Jul 2000).  Prepared   for 3rd
+        International Conference on Dark Matter in Astro and
+        Particle Physics (Dark 2000), Heidelberg, Germany
+        (10-16 Jul 2000).   Published in Heidelberg 2000,
+        Dark Matter in Astro- and Particle   Physics 699-706
+        (2000).
+
+\item ``Selected Recent Results From AMANDA'' (with the
+        AMANDA   Collaboration, E. Andres {\it et al.}) (Jul
+        2000).  Prepared for 30th   International Conference
+        on High-Energy Physics (ICHEP 2000), Osaka,   Japan
+        (27 Jul - 2 Aug 2000).  Published in Osaka 2000,
+        High Energy   Physics, Vol. 2 965-968 (2000).
+
+\item ``Observation of high energy atmospheric neutrinos
+        with AMANDA'' (with A.~Karle {\it et al.}  [AMANDA
+        Collaboration]). 10.1063/1.1345374 \\{}AIP Conf.\
+        Proc.\ {\bf 549}, 823   (2000).
+
+\item ``Status of the neutrino telescope AMANDA: Monopoles
+        and WIMPs'' (with X.~Bai {\it et al.}  [AMANDA
+        Collaboration]). %(Jul 2000)  (2000).
+
+\item ``The AMANDA Neutrino Detector: Status Report'' (with
+        the AMANDA   Collaboration, R. Wischnewski {\it et
+        al.}) (2000).  Prepared for 6th   Topical Seminar on
+        Neutrino and AstroParticle Physics, San Miniato,
+        Italy (17-21 May 1999).  Published in Nucl. Phys.
+        Proc. Suppl. {\bf     85} 141-145 (2000).
+
+\item ``The AMANDA Neutrino Telescope: Principle of
+        Operation and First   Results'' (with the AMANDA
+        Collaboration, E. Andres {\it et al.}), DESY-99-073
+        (Jun 1999). 36pp. Astropart. Phys. {\bf 13} 1-20
+        (2000).
+
+\item ``Up and Downgoing Muons in the AMANDA B4 Prototype
+        Detector'' (with   the AMANDA Collaboration, S.
+        Hundertmark {\it et al.}), Proceedings of the
+        XXVIth International Cosmic Ray Conference, Salt
+        Lake City, Utah   (1999).
+
+\item ``AMANDA Search for High Energy Neutrinos Accompanying
+        Gamma Ray   Bursts'' (with the AMANDA Collaboration,
+        Ryan Bay {\it et al.}), Proceedings   of the XXVIth
+        International Cosmic Ray Conference, Salt Lake City,
+        Utah (1999).
+
+\item ``From the First Neutrino Telescope, the Antarctic
+        Muon and   Neutrino Detector Array AMANDA, to the
+        IceCube Observatory'' (with the   AMANDA
+        Collaboration, F. Halzen {\it et al.}), Proceedings
+        of the XXVIth   International Cosmic Ray Conference,
+        Salt Lake City, Utah (1999).
+
+\item ``Optical Properties of South Pole Ice at Depths from
+        140 to 2300   Meters'' (with the AMANDA
+        Collaboration, Kurt Woschnagg {\it et al.}),
+        Proceedings of the XXVIth International Cosmic Ray
+        Conference, Salt   Lake City, Utah (1999).
+
+\item ``Observation of Atmospheric Neutrino Events with
+        AMANDA'' (with the   AMANDA Collaboration, A. Karle
+        {\it et al.}), Proceedings of the XXVIth
+        International Cosmic Ray Conference, Salt Lake City,
+        Utah (1999).
+
+\item ``The AMANDA B 10 String Array'' (with the AMANDA
+        Collaboration,   Gary C. Hill {\it et al.}),
+        Proceedings of the XXVIth International Cosmic   Ray
+        Conference, Salt Lake City, Utah (1999).
+
+\item ``A Search for Point Sources of High Energy Neutrinos
+        with the   AMANDA Neutrino Telescope'' (with the
+        AMANDA Collaboration, J.H. Kim   {\it et al.}),
+        Proceedings of the XXVIth International Cosmic Ray
+        Conference, Salt Lake City, Utah (1999).
+
+\item ``Status of the RICE Experiment'' (with the AMANDA
+        Collaboration,   G.M. Frichter {\it et al.}),
+        Proceedings of the XXVIth International   Cosmic Ray
+        Conference, Salt Lake City, Utah (1999).
+
+\item ``Seasonal Variation of the Muon Flux seen by AMANDA''
+        (with the   AMANDA Collaboration, A. Bouchta {\it et
+        al.}), Proceedings of the XXVIth   International
+        Cosmic Ray Conference, Salt Lake City, Utah (1999).
+
+\item ``Supernova Burst Analysis with the Amanda Neutrino
+        Telescope  '' (with the AMANDA Collaboration, R.
+        Wischnewski {\it et al.}), Proceedings   of the
+        XXVIth International Cosmic Ray Conference, Salt
+        Lake City,   Utah (1999).
+
+\item ``Calibration of AMANDA with Coincident Events from
+        SPASE 2'' (with   the AMANDA Collaboration, T.C.
+        Miller {\it et al.}), Proceedings of the   XXVIth
+        International Cosmic Ray Conference, Salt Lake City,
+        Utah   (1999).
+
+\item ``Nearly Vertical Upgoing Muons in the AMANDA B10
+        Detector'' (with   the AMANDA Collaboration, Eva
+        Dalberg {\it et al.}), Proceedings of the   XXVIth
+        International Cosmic Ray Conference, Salt Lake City,
+        Utah   (1999).
+
+\item ``Digital Optical Module And System Design For A
+        Km-Scale Neutrino   Detector In Ice'' (with D. M.
+        Lowder {\it et al.}), Proceedings of the   XXVIth
+        International Cosmic Ray Conference, Salt Lake City,
+        Vol. 2,   452-455 (1999).
+
+\item ``The AMANDA Neutrino Detector'' (with the AMANDA
+        Collaboration,   R. Wischnewski {\it et al.})
+        (1999). Given at 10th International Symposium   on
+        Very High-Energy Cosmic Ray Interactions (ISVHECRI
+        98), Assergi,   Italy (12-17 Jul 1998).  Published
+        in Nucl. Phys. Proc. Suppl. {\bf     75A} 412-414
+        (1999).
+
+\item ``Observation Of Atmospheric Neutrino Events With The
+        AMANDA   Experiment.'' (with the AMANDA
+        Collaboration, E. Andres {\it et al.}) (Jan   1999).
+        5pp.  Talk given at 17th International Workshop on
+        Weak   Interactions and Neutrinos (WIN 99), Cape
+        Town, South Africa (24-30   Jan 1999). In Cape Town
+        1999, Weak Interactions and Neutrinos   258-262
+        (1999).
+
+\item ``AMANDA: Status, Results and Future'' (with the
+        AMANDA   Collaboration, E. Andres {\it et al.}).
+        Talk given at 8th International   Workshop on
+        Neutrino Telescopes, Venice, Italy (23-26 Feb,
+        1999).  In   Venice 1999, Neutrino Telescopes, Vol.
+        2 63-79 (1999).
+
+\item ``From AMANDA To IceCube: Current And Future High
+        Energy Neutrino   Telescopes At The South Pole''
+        (with the AMANDA Collaboration,   T. Miller {\it et
+        al.}). Jun 1999. Prepared for 23rd Johns Hopkins
+        Workshop on Current Problems in Particle Theory:
+        Neutrinos in the   New Millennium, Baltimore,
+        Maryland (10-12 Jun 1999).  Published in   Baltimore
+        1999, Neutrinos in the New Millennium 47-61 (1999).
+
+\item ``Search for Relativistic Monopoles with the AMANDA
+        Detector'' (with   the AMANDA Collaboration, Peter
+        Niessen {\it et al.}), Proceedings of the   XXVIth
+        International Cosmic Ray Conference, Salt Lake City,
+        Utah   (1999).
+
+\item ``Observation of atmospheric neutrino events with the
+        AMANDA experiment'' (with E.~Andres {\it et al.}
+        [AMANDA Collaboration]). astro-ph/9904379   \\{}In
+        *Cape Town 1999, Weak interactions and neutrinos*
+        258-262 %(Jan 1999)  (1999).
+
+\item ``Status Of The AMANDA Experiment'' (with the AMANDA
+        Collaboration,   E. Andres {\it et al.}). 1999.
+        Given at 5th International Workshop on   Topics in
+        Astroparticle and Underground Physics (TAUP 97),
+        Gran   Sasso, Italy (7-11 Sep 1997).  Published in
+        Nucl. Phys. Proc. Suppl. {\bf 70} 448-452 (1999).
+
+\item ``The AMANDA Neutrino Telescope'' (with the AMANDA
+        Collaboration,   Francis Halzen {\it et al.}).
+        MADPH-98-1078 (Sep 1998). 12pp.  Talk given   at
+        18th International Conference on Neutrino Physics
+        and   Astrophysics (NEUTRINO 98), Takayama, Japan
+        (4-9 Jun 1998).   Published in Nucl. Phys. Proc.
+        Suppl. {\bf 77} 474-485 (1999). Also   in Buxton
+        1998, The Identification of Dark Matter 501-507
+        Archive: hep-ex/9809025 (1998).
+
+\item ``The AMANDA Neutrino Telescope And The Indirect
+        Search For Dark   Matter'' (with the AMANDA
+        Collaboration, F. Halzen et   al.). MADPH-98-1050
+        (Apr 1998). 16pp.  Talk given at 3rd   International
+        Symposium on Sources and Detection of Dark Matter in
+        the Universe (DM 98), Santa Monica, CA (18-20 Feb
+        1998).  Published   in Phys. Rept. {\bf 307} 243-252
+        (1998).
+
+\item ``An Overview Of Offline Software For AMANDA'' (with
+        the AMANDA   Collaboration, J. Jacobsen {\it et
+        al.}). 1998.  Prepared for   International Workshop
+        on Simulations and Analysis Methods for Large
+        Neutrino Telescopes, Zeuthen, Germany (6-9 Jul
+        1998). In Zeuthen   1998, Simulation and Analysis
+        Methods for Large Neutrino Telescopes   194-204
+        (1998).
+
+\item ``Initial Results From The AMANDA High-Energy Neutrino
+        Detector  '' (with the AMANDA Collaboration, S. W.
+        Barwick {\it et al.}).   Prepared for 29th
+        International Conference on High-Energy Physics
+        (ICHEP 98), Vancouver, British Columbia, Canada
+        (23-29 Jul 1998). In   Vancouver 1998, High Energy
+        Physics, Vol. 2 1447-1452 (1998).
+
+\item ``Digital optical module and system design for a
+        km-scale neutrino detector in ice'' (with
+        D.~M.~Lowder, K.~H.~Becker, D.~Cowen, C.~Guenther,
+        V.~Drozdov, A.~Karle and H.~Leich {\it et al.}).
+        10.1016/S1387-6473(98)00016-5 \\{}New Astron.\ Rev.\
+        {\bf 42}, 301 (1998).
+
+\item ``An overview of offline software for AMANDA'' (with
+        C.~Wiebusch {\it et al.} [AMANDA Collaboration]). In
+        *Zeuthen 1998, Simulation and analysis methods for
+        large neutrino telescopes* 194-204 %(1998)  (1998).
+
+\item ``Initial results from the AMANDA high-energy neutrino
+        detector'' (with S.~W.~Barwick, J.~Booth, J.~Kim,
+        R.~Mock, R.~Porrata, D.~Ross, W.~Wu and G.~Yodh {\it
+        et al.}). In *Vancouver 1998, High energy physics,
+        vol. 2* 1447-1452 %(1998)  (1998).
+
+\item ``The AMANDA neutrino telescope and the indirect
+        search for dark matter'' (with F.~Halzen {\it et
+        al.}  [AMANDA Collaboration]). hep-ex/9804007
+        \\{}10.1016/S0370-1573(98)00041-6 \\{}Phys.\ Rept.\
+        {\bf 307}, 243 (1998) %(Apr 1998)  (1998).
+
+\item ``Latest Results from AMANDA'' (with the AMANDA
+        collaboration,   P.B. Price \etal), in {\it Proc.
+        XXXIInd Rencontres de Moriond     (``Very High
+        Energy Phenomena in the Universe'')}, Les Arcs,
+        France (1997).
+
+\item ``The Status of the AMANDA High-Energy Neutrino
+        Detector'' (with the   AMANDA collaboration, S.W.
+        Barwick \etal), {\it Proceedings of the     25th
+        International Cosmic Ray Conference}, Durban, South
+        Africa,   Vol.~7, 1 (1997).
+
+\item ``THE AMANDA EXPERIMENT: status and prospects for
+        indirect Dark   Matter detection'' (with the AMANDA
+        Collaboration, L.~Bergstr\"{o}m   \etal), {\it
+        Proceedings of the International Workshop on the
+        Identification of Dark Matter (IDM 96)}, Sheffield,
+        England, 1996,   Edited by N.J.C. Spooner, p.521
+        (1997).
+
+\item ``First Look at AMANDA-B Data'' (with the AMANDA
+        collaboration,   S. Tilav \etal), {\it Proceedings
+        of the 25th International Cosmic     Ray
+        Conference}, Durban, South Africa, Vol.~7, 5 (1997).
+
+\item ``Analysis of Cascades in AMANDA-A,'' (with the AMANDA
+        collaboration, R. Porrata \etal), {\it Proceedings
+        of the 25th     International Cosmic Ray
+        Conference}, Durban, South Africa,   Vol.~7, 9
+        (1997).
+
+\item ``Muon Reconstruction with AMANDA-B,'' (with the
+        AMANDA   collaboration, C.H. Wiebusch \etal), {\it
+        Proceedings of the 25th     International Cosmic Ray
+        Conference}, Durban, South Africa,   Vol.~7, 13
+        (1997).
+
+\item ``Analysis of SPASE-AMANDA Coincidence Events'' (with
+        the SPASE and   AMANDA collaborations, T.C. Miller
+        \etal), {\it Proceedings of the     25th
+        International Cosmic Ray Conference}, Durban, South
+        Africa,   Vol.~5, 237 (1997).
+
+\item ``Status of the AMANDA and BAIKAL Neutrino
+        Telescopes'' (with C.~Wiebusch {\it et al.}  [AMANDA
+        and BAIKAL Collaboration]). Nucl.\ Phys.\ Proc.\
+        Suppl.\  {\bf 52B}, 256 (1997).
+
+\item ``UV and Optical Light Transmission Properties in Deep
+        Ice at   the South Pole'' (with the AMANDA
+        collaboration, P. Askebjer {\sl et     al.}),
+        Geophysical Research Letters {\bf 24}, 11, 1355
+        (1997).
+
+\item ``Optical Properties of Deep Ice at the South Pole -
+        Absorption'' (with the AMANDA collaboration
+        (P.~Askebjer {\sl et     al.}), Applied Optics {\bf
+        36}, 18, 4168 (1997).
+
+\item ``1995-1996 Results for the AMANDA Neutrino
+        Observatory'' (with   P.~Askebjer \etal), {\it
+        Proceedings of the International Workshop     on
+        Future Prospects of Baryon Instability Search}, Oak
+        Ridge   National Laboratory, Yu. ~Kamyshkov, ed.
+        (1996).
+
+\item ``The AMANDA Experiment'' (with the AMANDA
+        Collaboration,   P.~O.~Hulth \etal), {\it
+        Proceedings of the $17^{th}$ International
+        Conference on Neutrino Physics and Astrophysics
+        (Neutrino 96)},   p.518, Helsinki, Finland (1996).
+
+\item ``Status of the AMANDA South Pole Neutrino Detector''
+        (with the   AMANDA collaboration, F. Halzen \etal),
+        {\it Proceedings of the     International Workshop
+        on Aspects of Dark Matter in Astrophysics     and
+        Particle Physics}, Heidelberg, Germany (1996).
+
+\item ``1995-96 Results for the AMANDA Neutrino
+        Observatory'' (with the   AMANDA Collaboration,
+        P.~B.~Price \etal), {\it Proceedings of the
+        $7^{th}$ International Workshop on Neutrino
+        Telescopes}, p.383,   Venice, Italy (1996).
+
+\item ``Particle astrophysics in antarctica'' (with
+        T.~C.~Miller, P.~A.~Evenson, T.~K.~Gaisser,
+        D.~Martello, G.~M.~Spiczak, T.~Stanev, E.~Dickinson
+        and J.~R.~Gill {\it et al.}). In *Erice 1996,
+        Towards the millennium in astrophysics* 157-166
+        %(1996)  (1996).
+
+\item ``Simulating the detection of muons and neutrinos in
+        deep Antarctic ice'' (1996).
+
+\item ``The AMANDA experiment: Status and prospects for
+        indirect dark matter detection'' (with L.~Bergstrom
+        {\it et al.}  [AMANDA Collaboration]).
+        astro-ph/9612122 \\{}In *Sheffield 1996, The
+        identification of dark matter* 521-528 %(Sep 1996)
+        (1996).
+
+\item ``Initial Analysis of Coincident Events between the
+        SPASE and AMANDA detectors'' (with T.~Miller {\it et
+        al.}  [SPASE and AMANDA Collaboration]).
+        10.1016/0920-5632(95)00482-O \\{}Nucl.\ Phys.\
+        Proc.\ Suppl.\  {\bf 43}, 245 (1995).
+
+\item ``A System to Search for Supernova Bursts with the
+        AMANDA Detector  '' (with AMANDA collaboration,
+        R.~Wischnewski \etal), {\it Proceedings   of the
+        XXIVth International Cosmic Ray Conference}, Rome,
+        Italy,   Vol.~1, p.~658 (1995).
+
+\item ``Status and Capabilities of AMANDA-94'' (with AMANDA
+        collaboration,   P.~Mock \etal), {\it Proceedings of
+        the XXIVth International Cosmic     Ray Conference},
+        Rome, Italy, Vol.~1, p.~758 (1995).
+
+\item ``Measurements of the Absorption Length of the Ice at
+        the South   Pole in the Wavelength Interval 410 nm
+        to 610 nm'' (with AMANDA   collaboration,
+        B.~Erlandsson \etal), {\it Proceedings of the XXIVth
+        International Cosmic Ray Conference}, Rome, Italy,
+        Vol.~1 p.~1039 (1995).
+
+\item ``Indirect Evidence for Long Absorption Lengths in
+        Antarctic Ice''    (with AMANDA collaboration,
+        S.~Tilav \etal), {\it Proceedings of the   XXIVth
+        International Cosmic Ray Conference}, Rome, Italy,
+        Vol.~1, p.~1011   (1995).
+
+\item ``Optical Properties of South Pole Ice for Neutrino
+        Astrophysics  '' (with AMANDA collaboration,
+        P.~B.~Price \etal), {\it Proceedings of   the XXIVth
+        International Cosmic Ray Conference}, Rome, Italy,
+        Vol.~1, p.~777 (1995).
+
+\item ``SPASE-AMANDA Coincidences at the South Pole'' (with
+        T.~Miller   \etal), {\it Proceedings of the XXIVth
+        International Cosmic Ray     Conference}, Rome,
+        Italy, Vol.~2, p.~768 (1995).
+
+\item ``Remote Surveys of AMANDA'' (with R.~Porrata \etal),
+        {\it   Proceedings of the XXIVth International
+        Cosmic Ray Conference},   Rome, Italy, Vol.~1,
+        p.~1009 (1995).
+
+\item ``AMANDA: Status report from the 1993-94 campaign and
+        optical properties of the South Pole ice'' (with
+        P.~Askebjer {\it et al.}  [AMANDA Collaboration]).
+        10.1016/0920-5632(94)00757-M \\{}Nucl.\ Phys.\
+        Proc.\ Suppl.\  {\bf 38}, 287 (1995).
+
+\item ``Using Extra-clear Antarctic Ice as a Supernova
+        Detector'' (with   F.~Halzen and E.~Zas).  {\it
+        Proceedings of the XXIVth International     Cosmic
+        Ray Conference}, Rome, Italy, Vol.~1, p.~1027
+        (1995).
+
+\item ``Ultra-transparent Antarctic Ice as a Supernova
+        Detector'' (with   F.~Halzen and E.~Zas), {\it
+        Proceedings of the XXIVth International     Cosmic
+        Ray Conference}, Rome, Italy (1995).
+
+\item ``The Design of a Neutrino Telescope using Natural
+        Deep Ice as a   Particle Detector'' (with AMANDA
+        collaboration, L.~Gray \etal), {\it     Proceedings
+        of the XXIVth International Cosmic Ray Conference},
+        Rome, Italy), Vol.~1, p.~816 (1995).
+
+\item ``On the Age vs.~ Depth and Optical Clarity of Deep
+        Ice at South   Pole'' (with AMANDA collaboration,
+        P.~Askebjer \etal), Journal of   Glaciology,
+        Vol.~41, No.~139 (1995).
+
+\item ``Ultra High Energy Neutrino Astrophysics with
+        AMANDA'' (with AMANDA   Collaboration, P.~B.~Price
+        \etal), {\it Proceedings of the     International
+        Conference on Non-Accelerator Particle Physics},
+        Bangalore, India (1994).
+
+\item ``The Indirect Detection of Halo Dark Matter'' (with
+        F.~Halzen).   {\it Proceedings of the International
+        Conference on Critique of the     Sources of Dark
+        Matter in the Universe}, UCLA, Los Angeles,
+        California. hep-ph/9404252 (1994).
+
+\item ``Antarctic Muon and Neutrino Detector: First Data and
+        Outlook  '' (with John Lynch and the AMANDA
+        Collaboration), {\it Proceedings of   the Rpobotic
+        Telescopes Conference, Astronomical Society of the
+        Pacific}, Flagstaff, Arizona (1994).
+
+\item ``AMANDA: Status Report from the 1993-94 Campaign and
+        Optical   Properties of the South Pole Ice'' (with
+        AMANDA Collaboration,   P.~Askebjer \etal), To
+        appear in the {\it Proceedings of the XVI
+        International Conference on Neutrino Physics and
+        Astrophysics},   Eilat, Israel (1994).
+
+\item ``Ultrahigh-energy neutrino astrophysics with AMANDA''
+        (with P.~B.~Price, A.~Goobar, D.~Lowder, T.~Miller,
+        A.~Richards, A.~Westphal, S.~Barwick and J.~Lynch
+        {\it et al.}. %(Jan 1994)  (1994).
+
+\item ``The Detection of Cold Dark Matter With Neutrino
+        Telescopes'' (with F.~Halzen). hep-ph/9406309
+        \\{}In *Montreal 1994, Proceedings, What next?*
+        97-112, and Wisconsin U. Madison - MAD-PH-838
+        (94/06,rec.Jun.) 26 p %(Jun 1994)  (1994).
+
+\item ``First Data and Future Prospects for AMANDA, the
+        Antarctic Muon   and Neutrino Detector Array'' (with
+        P.~Askebjer \etal), Antarctic   Journal {\bf 24} \,
+        337 (1994).
+
+\item ``AMANDA: Design of a 1 Kilometer Deep High Energy
+        Neutrino   Telescope'' (with AMANDA collaboration,
+        S.~Tilav \etal), {\it     Proceedings of the XXIIIrd
+        International Cosmic Ray Conference},   Calgary,
+        Canada (1993).
+
+\item ``Surface/Under Ice Muon Coincidences at the South
+        Pole'' (with   S.~Tilav \etal), {\it Proceedings of
+        the XXIIIrd International     Cosmic Ray
+        Conference}, Calgary, Canada (1993).
+
+\item ``AMANDA: Measurement of South Pole Ice Transparency
+        at 800 Meter   Depth'' (with AMANDA collaboration,
+        T.~Miller \etal), {\it Proceedings     of the
+        XXIIIrd International Cosmic Ray Conference},
+        Calgary,   Canada (1993).
+
+\item ``Hardware Design and Prototype Tests of the AMANDA
+        Neutrino   Detector'' (with AMANDA collaboration,
+        D.~Lowder \etal), {\it     Proceedings of the
+        XXIIIrd International Cosmic Ray Conference},
+        Calgary, Canada (1993).
+
+\item ``GASP: Gamma-ray astronomy at the South Pole'' (with
+        G.~Barbagli {\it et al.}  [GASP Collaboration]).
+        \\{}In *Calgary 1993, Towards a major atmospheric
+        Cherenkov detector for TeV astro/particle physics*
+        72-74 %(1993)  (1993).
+
+\item ``The AMANDA neutrino astronomy project'' (with
+        R.~Morse {\it et al.}  [AMANDA Collaboration]). In
+        *Venice 1993, Neutrino telescopes* 309-320 %(1993)
+        (1993).
+
+\item ``High-energy neutrino telescopes detect supernovae''
+        (with F.~Halzen and E.~Zas). hep-ph/9307240 %(Jun
+        1993)  (1993).
+
+\item ``AMANDA: South pole neutrino detector'' (with
+        S.~Barwick, J.~Lynch, R.~Porrata, G.~Yodh,
+        D.~Lowder, T.~Miller, B.~Price and A.~Richards {\it
+        et al.}). AIP Conf.\ Proc.\  {\bf 272}, 1250 (1993).
+
+\item ``Transparency of Antarctic ice: First results'' (with
+        S.~W.~Barwick, J.~Lynch, R.~Porrata, G.~Yodh,
+        D.~Lowder, T.~Miller, B.~Price and A.~Richards {\it
+        et al.}). In *Honolulu 1992, High energy neutrino
+        astrophysics* 291-308 %(Mar 1992)  (1992).
+
+\item ``Antarctic Muon and Neutrino Detector Array'' (with
+        AMANDA   collaboration, S.~Barwick \etal), {\it
+        Proceedings of the 2nd UCLA     International
+        Conference on Gamma Ray and Neutrino Cosmology}, Los
+        Angeles, California (1992).
+
+\item ``AMANDA: South Pole Neutrino Detector'' (with AMANDA
+        collaboration,   S.~Barwick \etal), {\it Proceedings
+        of the XXVIth International     Conference on High
+        Energy Physics (ICHEP 92)}, Dallas, Texas   (1992).
+
+\item ``Antarctic muon and neutrino detector array'' (with
+        F.~Halzen, V.~Kandhadai, I.~Liubarsky, R.~Morse,
+        S.~Tilav, S.~Barwick and J.~Lynch {\it et al.}). In
+        *Venice 1992, Neutrino telescopes* 449-466 %(1992)
+        (1992).
+
+\item ``Searches for New Particles in $Z$ Decays Using the
+        ALEPH   Detector'' (with the ALEPH Collaboration,
+        D.~Decamp et.~al.),   Phys.~Rept.~{\bf 273} 253-340
+        (1992).
+
+\item ``Searches for the Standard Higgs Boson Produced in
+        the Reaction   ${e^+}{e^-} \rightarrow H^0 Z^*$''
+        (with the ALEPH Collaboration,   D.~Decamp \etal),
+        Contribution to the Aspen, La Thuile and Moriond
+        Conferences (1991).
+
+\item ``Searches for the standard Higgs boson produced in
+        the reaction e+ e- ---> H0 Z*'' (with D.~Decamp {\it
+        et al.}  [ALEPH Collaboration]). %(Jan 1991)
+        (1991).
+
+\item ``TeV gamma-rays from Hercules X-1 at an anomalous
+        period'' (with R.~Austin, U.~Camerini, J.~Finley,
+        W.~Fry, J.~Gaidos, J.~Hudson, and J.~Jennings {\it
+        et al.}). In *Adelaide 1990, Proceedings, Cosmic
+        ray, vol. 2* 110-113 %(1990)  (1990).
+
+\item ``VHE gamma-ray studies at the Haleakala Gamma Ray
+        Observatory'' (with L.~K.~Resvanis, A.~Szentgyorgyi,
+        M.~Kertzman, P.~Slane, J.~Hudson, L.~Kelley,
+        J.~G.~Learned and C.~Sinnis {\it et al.}). Nucl.\
+        Phys.\ Proc.\ Suppl.\  {\bf 14A}, 205 (1990).
+
