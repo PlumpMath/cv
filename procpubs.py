@@ -65,11 +65,16 @@ def main():
         def cleanrev(s):
             s = s.replace("\\", '')
             s = s.replace("~", " ")
+            s = re.sub("\s+", " ", s)
             return s
         
         def isref(body):
             for t in ["Nature", "Science", "Phys. Rev.", "Z. Phys", "Phys. Lett.",
-                      "Nucl. Instrum. Meth"]:
+                      "Nucl. Instrum. Meth", "Astropart. Phys.", "Astrophys. J.",
+                      "Astron. Astrophys.", "Eur. Phys. J.", "Astrophys. J. Lett.",
+                      "Nuclear Instruments and Methods", "Astrophysical J. Lett.",
+                      "European Physical Journal", "Phys. Atom. Nucl.",
+                      "New Astron.", "Phys. Rept.", "Geophysical Research Letters"]:
                 if t in cleanrev(body):
                     return True
         #print out

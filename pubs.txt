@@ -1211,22 +1211,10 @@
   Nucl. Instrum. Meth. {\bf A524} 169-194 (2004).
 %\href{http://inspirehep.net/record/637644}{HEP entry}
 
-\item ``Results from the AMANDA telescope'' (with J.~Ahrens {\it et al.}
-  [AMANDA Collaboration]).  \\{}10.1016/S0375-9474(03)01120-5
-  \\{}Nucl.\ Phys.\ A {\bf 721}, 545 (2003). %(2003)
-%\href{http://inspirehep.net/record/631985}{HEP entry}
-
 \item ``Search for Extraterrestrial Point Sources of Neutrinos with
   AMANDA-II'' (with the AMANDA Collaboration, J. Ahrens {\it et al.}).
   Phys. Rev. Lett. {\bf 92} 071102 (2004).
 %\href{http://inspirehep.net/record/628728}{HEP entry}
-
-
-\item ``Recent results from the amanda experiment'' (with P.~Niessen {\it et
-  al.}  [AMANDA Collaboration]).  \\{}astro-ph/0306209
-%(Jun 2003)
-%\href{http://inspirehep.net/record/620706}{HEP entry}
-
 
 \item ``Sensitivity of the IceCube Detector to Astrophysical Sources of
   High Energy Muon Neutrinos'' (with the IceCube Collaboration,
@@ -1324,7 +1312,7 @@
   Italy (17-21 May 1999).  Published in Nucl. Phys. Proc. Suppl. {\bf
     85} 141-145 (2000).
 
-\item ``Digital optical module and system design for a km-scale neutrino detector in ice'' (with D.~M.~Lowder, K.~H.~Becker, D.~Cowen, C.~Guenther, V.~Drozdov, A.~Karle and H.~Leich {\it et al.}). 10.1016/S1387-6473(98)00016-5
+\item ``Digital Optical Module and System Design for a km-Scale Neutrino Detector in Ice'' (with D.~M.~Lowder, K.~H.~Becker, D.~Cowen, C.~Guenther, V.~Drozdov, A.~Karle and H.~Leich {\it et al.}). 10.1016/S1387-6473(98)00016-5
 \\{}New Astron.\ Rev.\  {\bf 42}, 301 (1998). %(May 1999)
 %\href{http://inspirehep.net/record/503668}{HEP entry}
 
